@@ -1,6 +1,6 @@
 # Forge New Tool
 
-Created by OKIHIRO — AI自動化ワークフローを130個以上開発・運用しています。
+Created by OKIHIRO（OKIHIRO AI Creative） — AI自動化ワークフローを130個以上開発・運用しています。
 
 PythonツールをAIエージェントに要件定義から生成・構築・起動確認まで進めさせるための汎用スキルです。
 
